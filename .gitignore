@@ -1,0 +1,8 @@
+.vs/
+bin/
+bin-int/
+*.log
+*.tlog
+*.vcxproj.user
+*.exe.recipe
+*.dll.recipe
