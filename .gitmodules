@@ -1,0 +1,3 @@
+[submodule "MysticMesh/vendor/spdlog"]
+	path = MysticMesh/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
