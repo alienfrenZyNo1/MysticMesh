@@ -3,7 +3,7 @@
 
 # Mystic Mesh Game Engine
 
-![Mystic Mesh Logo](path_to_logo_image_if_you_have_one.png)
+![Mystic Mesh Logo](mysticmesh.jpeg)
 
 Mystic Mesh is a game engine currently under development, designed as a learning project to explore the intricacies of C++ programming and the vast realm of computer graphics.
 
