@@ -14,7 +14,7 @@ Mystic Mesh is a game engine currently under development, designed as a learning
 ## 🛠 Technologies Used
 
 - **Language**: C++
-- **Graphics API**: (Add the graphics API you're using, e.g., OpenGL, DirectX, etc. if you've decided on one.)
+- **Graphics API**: OpenGL
 
 ## 🔭 Goals
 
