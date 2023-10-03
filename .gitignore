@@ -1,0 +1,6 @@
+.vs/
+*.log
+*.tlog
+*.vcxproj.user
+*.exe.recipe
+*.dll.recipe
