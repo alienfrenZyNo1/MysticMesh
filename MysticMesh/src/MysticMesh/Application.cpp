@@ -1,5 +1,8 @@
 #include "Application.h"
 
+#include "MysticMesh/Events/ApplicationEvent.h"
+#include "MysticMesh/Log.h"
+
 namespace MysticMesh {
 
 	Application::Application()
@@ -12,6 +15,9 @@ namespace MysticMesh {
 	
 	void Application::Run()
 	{
+		WindowResizeEvent e(1280, 720);
+		MM_TRACE(e);
+
 		while (true);
 	}
 }

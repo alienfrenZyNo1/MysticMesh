@@ -4,6 +4,9 @@
     <Filter Include="MysticMesh">
       <UniqueIdentifier>{2B32BC7A-17EA-FDC7-80F1-D6236CC898B8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="MysticMesh\Events">
+      <UniqueIdentifier>{AF5F54E5-1B76-527B-64ED-DD9CD0422303}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\MysticMesh.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\MysticMesh\EntryPoint.h">
       <Filter>MysticMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="src\MysticMesh\Events\ApplicationEvent.h">
+      <Filter>MysticMesh\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\MysticMesh\Events\Event.h">
+      <Filter>MysticMesh\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\MysticMesh\Events\KeyEvent.h">
+      <Filter>MysticMesh\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\MysticMesh\Events\MouseEvent.h">
+      <Filter>MysticMesh\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\MysticMesh\Log.h">
       <Filter>MysticMesh</Filter>
